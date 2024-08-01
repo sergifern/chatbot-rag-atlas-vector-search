@@ -1,0 +1,6 @@
+# requirements.txt
+pymongo
+langchain-community
+openai
+python-dotenv
+gradio
